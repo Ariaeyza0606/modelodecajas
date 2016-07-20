@@ -1,0 +1,17 @@
+div{
+	background: #9900FF;
+	border:2px solid transparent;
+}
+.box{
+	background: #F9CB9C;
+	margin: 30px 10px 30px 10px;
+}
+.box p{
+	text-align: center;
+	background:white;
+	border:2px dashed green;
+	margin: 25px 20px 60px 90px;
+	padding: 20px;
+}
+
+	
